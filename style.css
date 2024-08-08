@@ -1,0 +1,38 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.vnPerfil {
+  border-radius: 100%;
+  width: 128px;
+  padding: 25px;
+}
+
+.vnFooter {
+  background: #d9d9d9;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 16px;
+}
+
+.vnSection {
+  margin-top: 16px;
+  padding: 20px 120px;
+}
+.vnSection.blue {
+  background-color: #baf3f6;
+}
+
+.vnSectionTitle {
+  color: darkmagenta;
+  margin-top: 0;
+}
+
+.vnList {
+  margin: 0;
+}/*# sourceMappingURL=style.css.map */
